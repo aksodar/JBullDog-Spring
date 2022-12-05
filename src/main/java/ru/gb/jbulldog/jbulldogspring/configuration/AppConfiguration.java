@@ -1,2 +1,8 @@
-package ru.gb.jbulldog.jbulldogspring.configuration;public class AppConfiguration {
+package ru.gb.jbulldog.jbulldogspring.configuration;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AppConfiguration {
+
 }
